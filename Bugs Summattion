@@ -1,0 +1,2 @@
+Error: index 11 is out of bounds for axis 0 with size 11
+意思是你的矩阵mo默认从零开始，而你最后一个序号超了
